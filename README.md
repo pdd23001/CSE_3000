@@ -20,8 +20,8 @@ You will be given a toy dataset and have the opportunity to explore the potentia
 
 # Personal Ethics Statement
 
-After reading Chapter 5 of Ethical Machines, I feel like a lot of ethics statements are kind of empty. Blackman points out that nobody is against "fairness" or "transparency," so just saying you value them doesn't mean much. I think ethics only matters if it actually changes what you do.
+After reading Chapter 5 of Ethical Machines, I feel like a lot of ethics statements are kind of empty. Blackman points out that nobody is against fairness or transparency, so just saying you value them doesn't mean much. I think ethics only matters if it actually changes what you do.
 
-I've been thinking about this with quantum computing, which is what I'm going to pursue my career in. I feel like ethics barely comes up in quantum because everyone is focused on making the technology work. But there are real issues. A powerful enough quantum computer could break a lot of the encryption we use today, which puts people's private data at risk. I also worry that only big companies and governments will have access to it, which could make existing inequalities worse. And there's a lot of hype around quantum, so I think people in the field have a responsibility to be honest about what it can actually do.
+I've been thinking about this with quantum computing, which is what I'm going to pursue my career in. Ethics rarely comes up in quantum because everyone is focused on making the technology work right now. But I think there are real issues. A powerful enough quantum computer could break a lot of the encryption we use today, which puts people's private data at risk. I also worry that only big companies and governments will have access to it, which could make existing inequalities worse. And there's a lot of hype around quantum, so I think people in the field have a responsibility to be honest about what it can actually do.
 
-Since I'm going to be working in this field, I don't want to just say I care about ethics. I want to actually think about how my work could be used, be upfront about its limits, and speak up when something doesn't feel right.
+Since I'm going to be working in this field, I want to actually think about how my work could be used, and be upfront about its limits.
